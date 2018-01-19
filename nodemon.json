@@ -1,0 +1,15 @@
+{
+    "env": {
+        "JWT_KEY": "! @m ReB3l",
+        "host": "smtp.gmail.com",
+        
+        "secure": true,
+        "name": "Rayi Systems Pvt Ltd",
+        "user": "rayi.systems@gmail.com",
+        "pass": "R@y!$yst3mS",
+        "secret": "! @m ReB3l"
+    }
+}
+
+
+ 
